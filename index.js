@@ -56,7 +56,7 @@ setTimeout(function(){
 
 
 
-// BLinking cursor animation
+// Text In Middle Animation
 var TxtRotate = function(el, toRotate, period) {
   this.toRotate = toRotate;
   this.el = el;
